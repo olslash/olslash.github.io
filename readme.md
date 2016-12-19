@@ -19,7 +19,7 @@
 Mitch’s unique talent is paired with an admirable focus and dedication to his craft. The engineering team benefitted immensely from his experience and ability to understand business issues and goals. As a PM I know how lucky I’ve been to have Mitch to rely on.
 
 ## Selected projects
-![Nervecenter 3 Dashboards](https://raw.githubusercontent.com/olslash/resume/master/screenshots/nc3-dashboards.png)
+![Nervecenter 3 Dashboards](https://raw.githubusercontent.com/olslash/resume/master/screenshots/nc3-dashboards.png){:href="https://raw.githubusercontent.com/olslash/resume/master/screenshots/nc3-dashboards.png"}
 *Dashboards / Nervecenter 3 / React/Redux — Next generation user-configurable data-agnostic analytic dashboards.*
 
 ---
