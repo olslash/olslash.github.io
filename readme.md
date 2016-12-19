@@ -12,7 +12,7 @@
 
 > Mitch was easily one of the best engineers I've worked with. His willingness to mentor others and dedication to best practices not only helped me become a better developer, but also led to the creation of an efficient & modular platform. No task was too difficult for Mitch, often tackling complicated features while still giving up some time to provide quality feedback during code reviews. He has a knack for breaking down complex features into easy to understand subproblems, which is invaluable when leading a team.
 
-#### Kshitij "Gio" Gujarati*
+#### Kshitij "Gio" Gujarati
 *Director, Product at Bottlenose*
 
 > Mitch is the rock upon which our enterprise intelligence product at Bottlenose was built. In terms of pure engineering talent, Mitch is one of the best I’ve worked with. His ability to relentlessly produce quality code in incredibly small amounts of time is remarkable. It enabled us to not only build an exceptional product quickly, but to continue to ship features and improvements at a rapid frequency and with uncommon regularity. 
