@@ -1,4 +1,4 @@
-#Mitch Robb's Resume
+# Mitch Robb's Resume
 ## PDF
 <a href="https://github.com/olslash/resume/raw/master/Resume%20-%20Mitch%20Robb.pdf">
 here
@@ -21,5 +21,5 @@ Image | Description
 
 
 
-##Pull requests accepted
+## Pull requests accepted
 seriously
