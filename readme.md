@@ -7,7 +7,7 @@
 
 ## Blog
 
-[https://olslash.github.io/](https://olslash.github.io/)
+[https://olslash.github.io/blog](https://olslash.github.io/blog)
 
 ## Recommendations
 
