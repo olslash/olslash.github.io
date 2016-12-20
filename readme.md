@@ -59,7 +59,7 @@ Mitch’s unique talent is paired with an admirable focus and dedication to his 
 
 ## Blog
 
-[http://www.mitchrobb.com]()
+[http://www.mitchrobb.com](http://www.mitchrobb.com)
 
 ## Pull requests accepted
 seriously
