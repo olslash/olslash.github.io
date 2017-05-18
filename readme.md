@@ -5,10 +5,6 @@
 <img src="https://raw.githubusercontent.com/olslash/olslash.github.io/master/screenshots/resume-preview.png" alt="resume preview" height="200">
 </a>
 
-## Blog
-
-[https://olslash.github.io/blog](https://olslash.github.io/blog)
-
 ## Recommendations
 
 #### Zack Tanner
@@ -60,6 +56,10 @@ Mitch’s unique talent is paired with an admirable focus and dedication to his 
 
 [![Spacegame](https://raw.githubusercontent.com/olslash/resume/master/screenshots/spacegame.jpg)](https://raw.githubusercontent.com/olslash/resume/master/screenshots/spacegame.jpg)
 *Spacegame / JS/Phaser — Made for a hackathon, a real-time RTS style resource collection and base defense game. Written in JS with the Phaser webgl game engine. [https://github.com/olslash/spacegame](https://github.com/olslash/spacegame)*
+
+## Blog
+
+[https://olslash.github.io/blog](https://olslash.github.io/blog)
 
 ## Pull requests accepted
 seriously
