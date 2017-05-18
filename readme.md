@@ -1,8 +1,8 @@
 # Mitch Robb's Resume
 
 ## PDF
-<a href="https://github.com/olslash/resume/raw/master/Resume%20-%20Mitch%20Robb.pdf">
-<img src="https://raw.githubusercontent.com/olslash/resume/master/screenshots/resume-preview.png" alt="alt text" height="200">
+<a href="https://github.com/olslash/olslash.github.io/raw/master/Resume%20-%20Mitch%20Robb.pdf">
+<img src="https://raw.githubusercontent.com/olslash/olslash.github.io/master/screenshots/resume-preview.png" alt="resume preview" height="200">
 </a>
 
 ## Blog
