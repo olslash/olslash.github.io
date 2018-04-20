@@ -5,6 +5,14 @@
 <img src="https://raw.githubusercontent.com/olslash/olslash.github.io/master/screenshots/resume-preview.png" alt="resume preview" height="200">
 </a>
 
+## Selected open-source contributions
+* [Veritone SDK](https://github.com/veritone/veritone-sdk/commits?author=olslash)
+* [skybot](https://github.com/rmmh/skybot/commits?author=olslash)
+* [re-reselect](https://github.com/toomuchdesign/re-reselect/commits?author=olslash)
+* [redux-batch-enhancer](https://github.com/abc123s/redux-batch-enhancer/commits?author=olslash)
+* [react-virtualized](https://github.com/bvaughn/react-virtualized/commits?author=olslash)
+* [react-linkify](https://github.com/tasti/react-linkify/pull/20)
+
 ## Recommendations
 
 #### Zack Tanner
