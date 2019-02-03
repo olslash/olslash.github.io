@@ -1,0 +1,118 @@
+Mitch Robb
+Senior Software Engineer
+www.mitchrobb.com
+
+Los Angeles, CA
+(818) 522-5382
+robb.mitch@gmail.com
+
+github.com/olslash
+linkedin.com/in/mitchrobb
+
+
+Hi! I'm a quality-driven, pragmatic and highly motivated software engineer.
+I’m an expert on the modern frontend web and I have significant full stack experience.
+I have product management and technical writing skills from a past life that help
+me to communicate tough concepts to diverse audiences and to understand the design
+of the products I develop.  I'm looking for a team that doesn't compromise on
+quality—in its product or its code. I love to teach and to learn, I contribute
+to open source, and I can jump really, really high.
+
+
+Skills
+======
+
+Modern Javascript, HTML, and CSS. UI/UX design.
+React w/ Redux, Backbone w/ Marionette, AngularJS.
+Node.js, SQL, MongoDB, Redis.
+Clojure, re-frame, core.async.
+Linux and MacOS, git, bash.
+And more!
+
+
+Work Experience
+===============
+
+Veritone
+--------
+The leading cloud-based Artificial Intelligence media tech company.
+Dec 2016 to present
+
+Lead Software Engineer
+
++ Led frontend development for a new developer-facing web product, built with
+Javascript, React, and Redux, which has remained substantially bug-free for over
+a year of continued development. Successfully handed off the project after launch
+to a new team who became productive with very little ramp-up.
+
++ Introduced modern frontend tools and techniques which have spread widely through
+the company and led directly to an all-hands effort writing all new features in
+React, despite heavy initial skepticism from the existing dev team and management.
+I continue to hold primary responsibility for frontend coding standards and
+architecture in the new stack.
+
++ Conceived, architected and built a set of eight open-source packages implementing
+our common UI/UX and frontend business logic, primarily in React and Redux, which
+have become the core of all new frontend development for both our internal team
+and for our integration partners. Successfully introduced nearly a dozen developers
+to the codebase and helped them become productive quickly, while maintaining high
+standards for code and functionality.
+
++ As a lead software engineer, focused heavily on mentorship with the simple intent
+of helping each person on my team write the best possible code.
+
+
+Bottlenose, Inc.
+----------------
+Developer of software for next-generation data discovery.
+2015 to  2016
+(team acquired by Veritone)
+
+Lead Software Engineer
+
++ Led a team of engineers developing the frontend of the company's new data analysis
+and discovery platform, built with Javascript, React and Redux. Met tight startup
+deadlines, delivering a product that feels and works great from a user’s perspective
+and that’s a joy to work in as a developer.
+
++ Added major new features to the company’s legacy data analysis platform, on both
+frontend and backend, including the main navigation and data-selection component,
+user-configurable dashboards, an admin interface, and several detailed reporting
+views. Used Backbone and Marionette to build the frontend, and Node.js with MongoDB
+and Express for the backend.
+
+
+Honey
+-----
+Creates tools that automate deal-finding and product discovery on the web.
+2014 to  2015
+
+Software Engineer
+
++ Built features and squashed bugs in the company’s web, browser extension and iOS
+products across front- and backend, in CoffeeScript, Javascript, Swift, PHP, and
+HTML5/CSS3.
+
++ Collaborated to design the frontend of a new web product, focusing on ease of
+development and maintenance, isomorphic/universal rendering for SEO and fast page
+loads, and scalability.
+
+
+Currie Tech
+-----------
+Hybrid-electric bicycle manufacturer.
+2008–2014
+
+Product Manager  2010–2014
+
++ Managed the IZIP, eFlow, and eZip lines of electric bicycles (about 12 distinct
+models), working closely with the software engineering team to develop and test
+the software programmed into every bike sold, both remotely and on-site in China
+and Taiwan.
+
+
+Education
+=========
+
+California State University, Northridge
+Bachelor of Science, Marketing
