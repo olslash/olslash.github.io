@@ -1,4 +1,5 @@
 # Mitch Robb's Resume
+_super out of date, sorry. currently senior SDE @ Twitch._
 
 ## PDF
 <a href="https://github.com/olslash/olslash.github.io/raw/master/Resume%20-%20Mitch%20Robb.pdf">
